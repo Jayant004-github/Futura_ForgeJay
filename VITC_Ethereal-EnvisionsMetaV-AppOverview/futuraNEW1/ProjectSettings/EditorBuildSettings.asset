@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Startup.unity
+    guid: 419ab1cbdb0a22842914d15f26c6b4ad
+  - enabled: 1
+    path: Assets/Scenes/next.unity
+    guid: 1dffcb9134866734a8614dd1d12d4339
+  - enabled: 1
+    path: Assets/Scenes/login.unity
+    guid: 4b5b85696731815478aad3008b1b7ccf
+  - enabled: 1
+    path: Assets/Scenes/signup.unity
+    guid: f5587bdda05c5474d80c3b17e807fb77
+  - enabled: 1
+    path: Assets/Scenes/home.unity
+    guid: dfba40273169192418fc64f8ec8da7cd
+  - enabled: 1
+    path: Assets/Scenes/search.unity
+    guid: f9854985e4d50c84f84210c01266a18d
+  - enabled: 1
+    path: Assets/Scenes/explore.unity
+    guid: 638bf842bf536f94bb3f3cb663a2a81e
+  - enabled: 1
+    path: Assets/Scenes/profile.unity
+    guid: e46aad7e7df2569418e9f3efb49b3b13
+  - enabled: 1
+    path: Assets/Scenes/profile2.unity
+    guid: 8aa005b9e040a3d45abc74c029eb3f79
+  - enabled: 1
+    path: Assets/Scenes/profile3.unity
+    guid: f629f02c02aa322408994863ba0bce80
+  - enabled: 1
+    path: Assets/Scenes/camera.unity
+    guid: 014299c27be76f64f96519a431ca238d
+  - enabled: 1
+    path: Assets/Scenes/Notifications.unity
+    guid: 01d0f072384ef2e40adbc9d872386098
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 59ed7708069909040bd57ab78fc10be1
+  - enabled: 1
+    path: Assets/Scenes/Binders.unity
+    guid: 563480c9ab372dd48a136a19feba0902
+  - enabled: 1
+    path: Assets/Scenes/Projects.unity
+    guid: 81fdb406b8598f748ad8abcf23b3c507
+  - enabled: 1
+    path: Assets/Scenes/issues.unity
+    guid: 3053526022770274fb1f1b34ab9fc925
+  - enabled: 1
+    path: Assets/Scenes/profileEdit.unity
+    guid: 5dcb63362da63ca4f86d321fb405a07a
+  - enabled: 1
+    path: Assets/Scenes/PullRequests.unity
+    guid: b13988b158e25a845959ad9926f05508
+  - enabled: 1
+    path: Assets/Scenes/Organisations.unity
+    guid: d1ea780587d2e6f4cabe3a29409d4286
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 4755b35b590504809a7525fd2109c2e2
+  - enabled: 1
+    path: Assets/Scenes/Discussion.unity
+    guid: 289eb8c0d60b5f145846dde056d7d474
+  - enabled: 1
+    path: Assets/Scenes/MarketPlaces.unity
+    guid: 2ea4bcdc403860347ac44ef624007561
+  - enabled: 1
+    path: Assets/Scenes/Saved.unity
+    guid: c4a8ce59189218f46ada73af769560af
+  - enabled: 1
+    path: Assets/Scenes/Collaborate.unity
+    guid: cfecd7bbdece662458a2beb205c2e457
+  - enabled: 1
+    path: Assets/Scenes/Collaborate2.unity
+    guid: c367b54259470944ebbaa213399bf463
+  - enabled: 1
+    path: Assets/Scenes/contribute.unity
+    guid: c0473ebdcecce3a4b8cd86c9ae22b0ae
+  - enabled: 1
+    path: Assets/Scenes/Contribute2.unity
+    guid: 455c514706b4b8b47a12c4d94eae26f3
+  - enabled: 1
+    path: Assets/Scenes/Discuss.unity
+    guid: af740181fc7db7647abf0457f7360831
+  - enabled: 1
+    path: Assets/Scenes/Discuss2.unity
+    guid: 7c8db261de3ce4d42afa1b69e204ed7e
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0b1594239f9d61148ab0a44bd1fda9b0, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 67ecf1b140a7eb24ca767f9ddbbfe570, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c199e683398494f32b4cde18e73ab731, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0e17d021a1eb6834589a081e91b701b6, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 6289c6756cd62d04fb4dc42656fa8bc1, type: 2}
