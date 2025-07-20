@@ -23,10 +23,10 @@ An AR/VR hardware collaboration application built to revolutionize how engineeri
 ---
 
 ## 🎥 Demo Video  
-> _Coming Soon..._
+> _Click on the picture for the detailed video of my project..._
 
 <!-- Replace the link below with your actual video URL -->
-[![Watch the Demo](https://img.youtube.com/vi/your_video_id_here/0.jpg)](https://www.youtube.com/watch?v=your_video_id_here)
+[![Watch the Demo](https://img.youtube.com/vi/nC4HX3flTdU/0.jpg)](https://youtu.be/nC4HX3flTdU)
 
 ---
 
