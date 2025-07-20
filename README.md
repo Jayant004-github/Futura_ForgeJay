@@ -58,6 +58,9 @@ An AR/VR hardware collaboration application built to revolutionize how engineeri
 - Clean and minimal user interface designed for both technical and non-technical users.
 - Guided workflows and tooltips for a smooth onboarding process.
 
+
+<img width="200" height="500" alt="Image" src="https://github.com/user-attachments/assets/a8d0fa6c-1de7-4f7b-91e7-fe7f06714ce0" />
+
 ---
 
 ## 📱 Tech Stack
